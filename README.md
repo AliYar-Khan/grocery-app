@@ -1,16 +1,14 @@
-# grocceryapp
+### Grocery App <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-A new Flutter project.
+<br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LrFwvaWpvFR6hXRcuG/giphy.gif" />
 
-## Getting Started
+<p float="left">
+  <img src="https://github.com/AliYar-Khan/grocery-app/blob/main/screenshots/Screenshot_20210421_102730.png" width="100" />
+  <img src="https://github.com/AliYar-Khan/grocery-app/blob/main/screenshots/Screenshot_20210421_102742.png" width="100" /> 
+</p>
 
-This project is a starting point for a Flutter application.
+**Installation**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repo.
+2. Run the app.
